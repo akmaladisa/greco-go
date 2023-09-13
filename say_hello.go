@@ -1,5 +1,5 @@
 package grecogo
 
 func SayHello() string {
-	return "Hello"
-}
+	return "Hello WORLDDD"
+} 
